@@ -1,16 +1,26 @@
-# nivel2_mundo4
+# 📍 App de Turismo - Busca por Cidades
 
-A new Flutter project.
+Este é um aplicativo Flutter que exibe informações turísticas com base na cidade escolhida pelo usuário.  
+O usuário pode digitar o nome de uma cidade no campo de busca e visualizar uma imagem representativa, junto com outras informações.
 
-## Getting Started
+O [relatório de práticas](https://github.com/user-attachments/files/19623380/Projeto.Nivel.2_.Flutter.pdf) foi confeccionado em formato PDF e produzido em conjunto com o desenvolvimento do projeto.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+### 🚀 Funcionalidades
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Campo de busca para selecionar cidades.
+- Exibição dinâmica de imagem e texto conforme a cidade escolhida.
+- Layout simples, responsivo, interativo e funcional.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+### ▶️ Como rodar
+
+1. Clone este repositório.
+2. Abra o projeto no seu editor (ex: VSCode).
+3. Execute o comando:
+
+```bash
+flutter pub get
+flutter run
